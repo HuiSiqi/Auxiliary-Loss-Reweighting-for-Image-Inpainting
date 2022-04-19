@@ -1,1 +1,1 @@
-# Adaptive-Auxiliary-Loss-for-Image-Inpainting
+# Auxiliary-Loss-Reweighting-for-Image-Inpainting
