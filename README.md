@@ -1,7 +1,7 @@
 # AAL for CTSDG
 
 **Auxiliary Loss Reweighting for Image Inpainting**<br>
-
+[Paper](https://arxiv.org/pdf/2111.07279)
 Siqi Hui, Sanping Zhou, Ye Deng, Jinjun Wang<br>
 
 
@@ -91,4 +91,10 @@ For Places2 Challenge Dataset, train the model for 2,000,000 iterations and fine
 If any part of our paper and repository is helpful to your work, please generously cite with:
 
 ```
+@article{hui2021auxiliary,
+  title={Auxiliary Loss Adaption for Image Inpainting},
+  author={Hui, Siqi and Zhou, Sanping and Wan, Xingyu and Wang, Jixin and Deng, Ye and Wu, Yang and Gong, Zhenghao and Wang, Jinjun},
+  journal={arXiv preprint arXiv:2111.07279},
+  year={2021}
+}
 ```
