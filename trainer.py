@@ -3,7 +3,7 @@ from torchvision import utils as vutils
 import torch
 import numpy as np
 from tqdm import tqdm
-from AAL import tools
+from AWA import tools
 from torch import optim
 from utils.distributed import get_rank, reduce_loss_dict
 from utils.misc import requires_grad, sample_data
