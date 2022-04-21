@@ -1,4 +1,4 @@
-# Auxiliary Loss Reweighting for Image Inpainting**<br>
+# Auxiliary Loss Reweighting for Image Inpainting
 [Paper](https://arxiv.org/pdf/2111.07279)
 
 Siqi Hui, Sanping Zhou, Ye Deng, Jinjun Wang<br>
