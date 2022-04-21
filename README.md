@@ -1,13 +1,11 @@
-# AAL for CTSDG
-
-**Auxiliary Loss Reweighting for Image Inpainting**<br>
+# Auxiliary Loss Reweighting for Image Inpainting
 [Paper](https://arxiv.org/pdf/2111.07279)
 
 Siqi Hui, Sanping Zhou, Ye Deng, Jinjun Wang<br>
 
 
 ## Introduction
-The code is based on [CTSDG](https://github.com/Xiefan-Guo/CTSDG). We choose CTSDG as inpaint model and replace perceptual and style loss of CTSDG with Tunable Perceptual Loss (TPL) and Tunable Style Loss (TSL) respectively. We also apply AAL algorithm to alter between optimizing model parameters and auxiliary parameters of TPL and TSL.
+The code is based on [CTSDG](https://github.com/Xiefan-Guo/CTSDG). We choose CTSDG as inpaint model and replace perceptual and style loss of CTSDG with Tunable Perceptual Loss (TPL) and Tunable Style Loss (TSL) respectively. We also apply AWA algorithm to alter between optimizing model parameters and auxiliary parameters of TPL and TSL.
 <img src='introduction.png'/>
 
 ## Prerequisites
