@@ -1,0 +1,10 @@
+# This file may be used to create an environment using:
+# $ conda create --name <env> --file <this file>
+# platform: linux-64
+
+numpy~=1.21.5
+scipy~=1.7.3
+tqdm~=4.62.3
+pillow~=9.0.0
+scikit-image~=0.18.3
+imageio~=2.9.0
