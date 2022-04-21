@@ -1,4 +1,4 @@
-# AAL for CTSDG
+# AWA for CTSDG
 
 **Auxiliary Loss Reweighting for Image Inpainting**<br>
 [Paper](https://arxiv.org/pdf/2111.07279)
