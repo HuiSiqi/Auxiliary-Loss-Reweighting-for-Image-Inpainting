@@ -21,7 +21,7 @@ The code is based on [CTSDG](https://github.com/Xiefan-Guo/CTSDG). We choose CTS
 - Clone this repo:
 
 ```
-https://github.com/HuiSiqi/Auxiliary-Loss-Reweighting-for-Image-Inpainting.git
+git clone https://github.com/HuiSiqi/Auxiliary-Loss-Reweighting-for-Image-Inpainting.git
 cd Auxiliary-Loss-Reweighting-for-Image-Inpainting
 ```
 
