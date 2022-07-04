@@ -1,5 +1,5 @@
 # Auxiliary Loss Reweighting for Image Inpainting
-[Paper](https://arxiv.org/pdf/2111.07279) | [Pre-trained Models]([[https://pan.baidu.com/s/1PetUGzwtLJzXErUfFDArbw]
+[Paper](https://arxiv.org/pdf/2111.07279) | [Pre-trained Models](https://pan.baidu.com/s/1PetUGzwtLJzXErUfFDArbw)
 
 Siqi Hui, Sanping Zhou, Ye Deng, Jinjun Wang<br>
 
